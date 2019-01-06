@@ -8,6 +8,7 @@ import { AngularFireModule } from 'angularfire2';
 import { AngularFirestoreModule } from 'angularfire2/firestore';
 
 import { FormsModule } from '@angular/forms';
+
 // take it from the database you created on Google Cloud Firebase 
 var firebaseConfig ={
   apiKey: "AIzaSyATN3wZlfzXdVKBm44WfIqk1EUbra-UNi0",
@@ -18,6 +19,7 @@ var firebaseConfig ={
    messagingSenderId: "920104515692"
 
 }
+
 
 @NgModule({
   declarations: [
