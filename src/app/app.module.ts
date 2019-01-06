@@ -11,12 +11,12 @@ import { FormsModule } from '@angular/forms';
 
 // take it from the database you created on Google Cloud Firebase 
 var firebaseConfig ={
-  apiKey: "AIzaSyATN3wZlfzXdVKBm44WfIqk1EUbra-UNi0",
+  apiKey: "",
   authDomain: "fir-71047.firebaseapp.com",
   databaseURL: "https://fir-71047.firebaseio.com",
   projectId: "fir-71047",
   storageBucket: "fir-71047.appspot.com",
-   messagingSenderId: "920104515692"
+  messagingSenderId: ""
 
 }
 
